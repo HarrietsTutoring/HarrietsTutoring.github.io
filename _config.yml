@@ -23,7 +23,7 @@ description: A link to your tutor
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Testimonials"
+  Testimonials: "Testimonials"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 
