@@ -21,6 +21,6 @@ I’ve fallen in love with helping students across the country from the convenie
 
 My credentials:
 
-BSc(Hons) in Mathematics & Physics, University of Edinburgh
-5 years of experience tutoring well over 100 students
-GRE Quantitative: 170 (GRE Verbal: 164) 99th percentile
+-BSc(Hons) in Mathematics & Physics, University of Edinburgh         
+-5 years of experience tutoring well over 100 students            
+-GRE Quantitative: 170 (GRE Verbal: 164) 99th percentile
