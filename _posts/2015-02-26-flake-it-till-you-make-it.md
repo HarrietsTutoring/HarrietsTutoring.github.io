@@ -19,7 +19,7 @@ The next logical step was then to set up my own tutoring company to help those w
 I’ve fallen in love with helping students across the country from the convenience of their own homes. I love working with my students one-on-one to help them understand math a little bit better each day and to watch their confidence in themselves grow. I’m so grateful to do what I love.
 
 
-My credentials:
+##My credentials:
 
 -BSc(Hons) in Mathematics & Physics, University of Edinburgh         
 -5 years of experience tutoring well over 100 students            
